@@ -1,66 +1,71 @@
-<h1 align="center">Hi there, I'm Ashish Gupta 👋</h1>
+# Hi there, I'm Ashish Gupta 👋
 
-<p align="center">
-  🚀 Aspiring AI Software Engineer • 💻 Java | Python | Flutter • 🧠 Machine Learning & App Dev Enthusiast
-</p>
+🚀 **Full-Stack Developer** | 💻 Java • Python • JavaScript  
 
 ---
 
-### 🧠 About Me
+## 👨‍💻 About Me
 
-- 🎓 Computer Science student passionate about *AI, ML, and **full-stack app development*
-- 🔍 Exploring deep learning, computer vision, and real-time intelligent applications
-- 💻 Skilled in building *Flutter apps, writing clean **Java/Python code*, and solving real-world problems
-- 🎯 Goal: Become a well-rounded *AI Software Engineer* with strong software engineering principles
-- 🌱 Currently learning: *TensorFlow, **OpenCV, and **transformers*
-
----
-
-### 🛠 Tech Stack
-
-*Languages*  
-Java Python Dart C++ JavaScript
-
-*AI/ML*  
-Scikit-learn TensorFlow Pandas NumPy Matplotlib OpenCV
-
-*App Development*  
-Flutter Firebase REST APIs UI/UX Design
-
-*Web*  
-HTML CSS JavaScript React
-
-*Tools & Platforms*  
-Git & GitHub VSCode Jupyter Notebook Postman Google Colab
+- 🎓 Computer Science student with a strong interest in **full-stack web development**
+- 🌐 Building **end-to-end applications** from backend logic to responsive user interfaces
+- 💻 Comfortable working with **Java, Python, and JavaScript**
+- 🎯 Aspiring **Full-Stack Developer** focused on writing clean, scalable code
+- 🌱 Currently learning **React and Node.js**
 
 ---
 
-### 📊 GitHub Stats
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ash1sh-gupta&show_icons=true&theme=radical" alt="Ashish's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ash1sh-gupta&theme=radical" alt="GitHub Streak" />
-</p>
+### Languages
+- Java
+- Python
+- C++
+- JavaScript
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+
+### Backend
+- Firebase
+- REST APIs
+- Node.js (learning)
+
+### Tools & Platforms
+- Git & GitHub
+- VS Code
+- Jupyter Notebook
+- Postman
+- Google Colab
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Project
 
-Here are some of my most impactful and interesting repositories:
-- 🔍 AI-House-Colorizer: Apply AI to transform house images with virtual paint
-- 📱 Flutter-Grocery-App: A full-featured shopping app with weight & packet-based pricing
-- 🤖 ML-Price-Predictor: Predict prices using regression & data visualization
+- 💰 **E-Tracker (Your Personal Finance Manager)**  
+  A web application to track income, expenses, and savings, helping users manage their personal finances efficiently.
 
-➡ Check my pinned repos below 👇
+➡️ Check out my pinned repositories below 👇
 
 ---
 
-### 🤝 Let's Connect!
+## 📊 GitHub Stats
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ashish-gupta-a31455304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 🧠 More coming soon: [Portfolio Website](#)
-- 📬 Email: ash3shgupta@gmail.com
+![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ash1sh-gupta&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ash1sh-gupta&theme=radical)
 
 ---
 
-Thanks for visiting my profile! Let's build intelligent things together 🤖✨
+## 🤝 Connect With Me
+
+- 💼 **LinkedIn**: https://www.linkedin.com/in/ashish-gupta-a31455304  
+- 🌐 **Portfolio**: Coming Soon  
+- 📬 **Email**: imashishgupta1@gmail.com  
+
+---
+
+✨ Thanks for visiting my GitHub profile!  
+Let’s build **practical and impactful applications** together 🚀
