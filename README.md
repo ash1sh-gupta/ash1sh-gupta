@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineering Student | Backend Learning Path</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Learning+Java+and+Core+CS;Exploring+Backend+Development;Practicing+Data+Structures;Building+Small+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Learning+Java+and+Core+CS;Exploring+Backend+Development;Practicing+Data+Structures;Working+on+coding+practice" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 📚 Exploring **Backend Development, DBMS, and Operating Systems concepts**  
 
-⚡ Working on small projects while improving consistency in coding  
+⚡ Regularly working on coding practice and improving consistency  
 
 ---
 
@@ -58,7 +58,7 @@
 |---------|-------------|
 | 📚 **Library Management System** | Java + JDBC + MySQL application for managing books and records |
 | 🤖 **AI Document Assistant** | Tool for processing and summarizing text using AI APIs |
-| 💻 **DSA in Java** | Collection of Java programs for practice and learning |
+| 💻 **DSA in Java** | Collection of Java programs created for practice and learning |
 
 ---
 
