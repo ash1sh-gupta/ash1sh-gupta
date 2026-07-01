@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Gupta</h1>
-<h3 align="center">Aspiring Software Engineering | Backend Learning Path</h3>
+<h3 align="center">Aspiring Software Engineer | Backend Learning Path</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Learning+Java+and+Core+CS;Exploring+Backend+Development;Practicing+Data+Structures;Working+on+coding+practice" />
