@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Ashish Gupta</h1>
-<h3 align="center">Aspiring Software Engineer | Backend & Problem-Solving Enthusiast</h3>
+<h3 align="center">Aspiring Software Engineering Student | Backend Learning Path</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Building+with+Java+and+Core+CS;Backend+Development+Learner;Problem+Solver;Consistent+Builder+of+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Learning+Java+and+Core+CS;Exploring+Backend+Development;Practicing+Data+Structures;Building+Small+Projects" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-💻 Computer Science student focused on strengthening software development fundamentals  
+💻 Computer Science student focusing on software development fundamentals  
 
-🌱 Working through **Java, Spring Boot & System Design basics**  
+🌱 Currently learning **Java, Spring Boot, and System Design basics**  
 
-🧠 Practicing **Data Structures & Algorithms regularly for problem solving**  
+🧠 Practicing **Data Structures and Algorithms regularly**  
 
 📚 Exploring **Backend Development, DBMS, and Operating Systems concepts**  
 
-⚡ Enjoy turning ideas into simple, working projects through consistent learning  
+⚡ Working on small projects while improving consistency in coding  
 
 ---
 
@@ -57,8 +57,8 @@
 | Project | Description |
 |---------|-------------|
 | 📚 **Library Management System** | Java + JDBC + MySQL application for managing books and records |
-| 🤖 **AI Document Assistant** | Tool for summarizing and processing documents using AI APIs |
-| 💻 **DSA in Java** | Collection of problem-solving solutions using Java |
+| 🤖 **AI Document Assistant** | Tool for processing and summarizing text using AI APIs |
+| 💻 **DSA in Java** | Collection of Java programs for practice and learning |
 
 ---
 
