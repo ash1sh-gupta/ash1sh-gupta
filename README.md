@@ -1,71 +1,54 @@
 # Hi there, I'm Ashish Gupta 👋
 
-🚀 **Full-Stack Developer** | 💻 Java • Python • JavaScript  
+Aspiring Software Engineer | Java Developer | Problem Solver
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🎓 Computer Science student with a strong interest in **full-stack web development**
-- 🌐 Building **end-to-end applications** from backend logic to responsive user interfaces
-- 💻 Comfortable working with **Java, Python, and JavaScript**
-- 🎯 Aspiring **Full-Stack Developer** focused on writing clean, scalable code
-- 🌱 Currently learning **React and Node.js**
+Computer Science student passionate about building software and improving problem-solving skills.  
+I enjoy working with Java, exploring Data Structures & Algorithms, and learning how real-world systems are built.
+
+Currently focused on strengthening my backend and core CS fundamentals while building projects and practicing DSA.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-- Java
-- Python
-- C++
-- JavaScript
-
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- React
-
-### Backend
-- Firebase
-- REST APIs
-- Node.js (learning)
-
-### Tools & Platforms
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
-- Postman
-- Google Colab
+**Languages:** Java, C, SQL  
+**CS Fundamentals:** DSA, OOP, DBMS, Operating Systems  
+**Database:** MySQL, JDBC  
+**Tools:** Git, GitHub, VS Code, ChatGPT, Claude, Copilot
 
 ---
 
-## 🚀 Featured Project
+## 📌 Projects
 
-- 💰 **E-Tracker (Your Personal Finance Manager)**  
-  A web application to track income, expenses, and savings, helping users manage their personal finances efficiently.
+**Library Management System**  
+Java + MySQL + JDBC based system for managing books and records using OOP and CRUD operations.
 
-➡️ Check out my pinned repositories below 👇
-
----
-
-## 📊 GitHub Stats
-
-![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ash1sh-gupta&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ash1sh-gupta&theme=radical)
+**AI Document Assistant**  
+A Java-based project integrating APIs for document-related assistance and processing.
 
 ---
 
-## 🤝 Connect With Me
+## 📊 Coding Journey
 
-- 💼 **LinkedIn**: https://www.linkedin.com/in/ashish-gupta-a31455304  
-- 🌐 **Portfolio**: Coming Soon  
-- 📬 **Email**: imashishgupta1@gmail.com  
+- Practicing Data Structures & Algorithms on LeetCode (Java)
+- Building Java projects to strengthen backend fundamentals
+- Continuously improving problem-solving skills
 
 ---
 
-✨ Thanks for visiting my GitHub profile!  
-Let’s build **practical and impactful applications** together 🚀
+## ⚡ Focus Areas
+
+- Backend Development fundamentals
+- Problem Solving using DSA
+- Writing clean and structured code
+- Learning industry-relevant tools and workflows
+
+---
+
+## 🤝 Let’s Connect
+
+Always open to learning, collaboration, and building meaningful projects.
