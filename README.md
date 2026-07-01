@@ -1,30 +1,29 @@
 <h1 align="center">Hi 👋, I'm Ashish Gupta</h1>
-<h3 align="center">Aspiring Software Engineer | Java Developer | Backend Enthusiast</h3>
+<h3 align="center">Aspiring Software Engineer | Backend & Problem-Solving Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Java+Developer;Backend+Developer;Problem+Solver;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Building+with+Java+and+Core+CS;Backend+Development+Learner;Problem+Solver;Consistent+Builder+of+Projects" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-💻 Computer Science Student passionate about Backend Development
+💻 Computer Science student focused on strengthening software development fundamentals  
 
-🌱 Currently Learning **Java, Spring Boot & System Design**
+🌱 Working through **Java, Spring Boot & System Design basics**  
 
-🧠 Practicing **Data Structures & Algorithms**
+🧠 Practicing **Data Structures & Algorithms regularly for problem solving**  
 
-📚 Interested in **Backend Engineering, DBMS, Operating Systems**
+📚 Exploring **Backend Development, DBMS, and Operating Systems concepts**  
 
-⚡ Fun Fact: I enjoy solving coding challenges and building useful projects.
+⚡ Enjoy turning ideas into simple, working projects through consistent learning  
 
 ---
 
 # 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -32,20 +31,17 @@
 </p>
 
 ### ⚙ Backend
-
 <p>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/JDBC-orange?style=for-the-badge"/>
 </p>
 
 ### 🗄 Database
-
 <p>
 <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### 🛠 Tools
-
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -60,10 +56,9 @@
 
 | Project | Description |
 |---------|-------------|
-| 📚 **Library Management System** | Java + JDBC + MySQL desktop application for managing books and users. |
-| 🤖 **AI Document Assistant** | AI-powered document summarizer using OpenAI APIs. |
-| 💰 **Personal Finance Manager** | Expense tracker with charts and budgeting. |
-| 💻 **DSA in Java** | Collection of Java solutions for Data Structures & Algorithms. |
+| 📚 **Library Management System** | Java + JDBC + MySQL application for managing books and records |
+| 🤖 **AI Document Assistant** | Tool for summarizing and processing documents using AI APIs |
+| 💻 **DSA in Java** | Collection of problem-solving solutions using Java |
 
 ---
 
@@ -80,26 +75,6 @@
 <p align="center">
 
 <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=ash1sh-gupta&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ash1sh-gupta&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 📊 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash1sh-gupta&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -126,7 +101,5 @@
 ---
 
 <p align="center">
-
-![](https://komarev.com/ghpvc/?username=ash1sh-gupta&style=for-the-badge&color=blue)
-
+<img src="https://komarev.com/ghpvc/?username=ash1sh-gupta&style=for-the-badge&color=blue"/>
 </p>
